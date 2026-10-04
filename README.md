@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SecuLinux my own educative platform<br>👯 I’m looking to collaborate on ML and DevOps projects<br>🌱 I’m currently learning how to better optimize my workflow<br>⚡ Fun fact : I'm only a High School student<br>
+🔭 I’m currently working on improving lives by creating solutions for people<br>👯 I’m looking to collaborate on ML and DevOps projects<br>🌱 I’m currently learning how to better optimize my workflow<br>⚡ Fun fact : I'm only a first year University student<br>
 
 
 # 💻 Tech Stack:
