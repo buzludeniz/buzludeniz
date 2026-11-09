@@ -1,17 +1,26 @@
-# 💫 About Me:
-🔭 I’m currently working on improving lives by creating solutions for people<br>👯 I’m looking to collaborate on ML and DevOps projects<br>🌱 I’m currently learning how to better optimize my workflow<br>⚡ Fun fact : I'm only a first year University student<br>
+## Hi, I'm Deniz
 
+I'm a developer based in Victoria, BC, Canada, doing paid development work at
+**Ruboss**. Outside of work I build tools and small products, mostly in
+TypeScript and Python. A few of them are below.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=buzludeniz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=buzludeniz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=buzludeniz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Selected projects
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=buzludeniz&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [devkit](https://github.com/buzludeniz/devkit) | Developer productivity CLI in a repo that maintains itself: a nightly workflow runs ten maintenance tasks, each committing a report | TypeScript, pnpm workspaces, Vitest, GitHub Actions |
+| [weather_app](https://github.com/buzludeniz/weather_app) | Nimbus Weather: a forecast web page and phone app built around one rule, "never show a number the provider did not send" | TypeScript, Express, PostgreSQL, Redis, React Native (Expo) |
+| [black_scholes_model](https://github.com/buzludeniz/black_scholes_model) | European option pricing with Greeks, implied volatility and a Monte Carlo cross-check, behind a Python API, CLI and GUI | Python, NumPy, pytest |
+| [quantview](https://github.com/buzludeniz/quantview) | Local-first quant research desktop app for equities, rates and options, with data stored in DuckDB | Python, DuckDB, PyQt6 |
+| [dear-alex](https://github.com/buzludeniz/dear-alex) | A short self-distancing experience for university students after a setback | React, TypeScript, FastAPI |
+| [pocket-trainer](https://github.com/buzludeniz/pocket-trainer) | Role-based corporate training prototype built for a hackathon | React, Vite, Recharts, Three.js |
 
----
-[![](https://visitcount.itsvg.in/api?id=buzludeniz&icon=0&color=1)](https://visitcount.itsvg.in)
+### Tech I use
 
+**Languages:** TypeScript, JavaScript, Python, SQL, Java
+
+**Front end:** React, React Native (Expo), Vite, Tailwind CSS, Material UI
+
+**Back end and data:** Node.js / Express, FastAPI, SQLAlchemy, PostgreSQL, Redis, DuckDB
+
+**Testing and delivery:** Vitest, pytest, Jest, GitHub Actions, Docker
