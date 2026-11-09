@@ -1,8 +1,25 @@
-## Hi, I'm Deniz
+## Hi, I'm Deniz 👋
 
-I'm a developer based in Victoria, BC, Canada, doing paid development work at
-**Ruboss**. Outside of work I build tools and small products, mostly in
-TypeScript and Python. A few of them are below.
+I'm a developer in Victoria, BC, Canada. By day I do paid development work at
+**Ruboss**. The rest of the time I build my own tools and small products,
+mostly in TypeScript and Python.
+
+### About me
+
+- **I like problems where getting the numbers right matters.** That's what
+  pulled me into quantitative finance: I've written an options-pricing library
+  and a local-first desktop app for market research.
+- **I care about software being honest with its users.** My weather app shows a
+  dash instead of a made-up value when the data isn't there, and that rule shaped
+  the whole design.
+- **I build things for people, not just for practice.** A short exercise that
+  helps students get some distance from a setback. A training prototype built at
+  a hackathon. A tax-risk checker for Albanian businesses.
+- **I like automating my own workflow.** One of my repositories maintains itself:
+  every night an agent picks an item from its backlog, writes the test first,
+  implements it and opens a pull request for me to review.
+- **I ship with tests and CI.** Five of the six projects below run
+  their test suites in GitHub Actions on every push to `main`.
 
 ### Selected projects
 
@@ -24,3 +41,8 @@ TypeScript and Python. A few of them are below.
 **Back end and data:** Node.js / Express, FastAPI, SQLAlchemy, PostgreSQL, Redis, DuckDB
 
 **Testing and delivery:** Vitest, pytest, Jest, GitHub Actions, Docker
+
+### Get in touch
+
+I'm open to collaborating on interesting projects. The easiest way to reach me
+is to open an issue on any of my repositories.
