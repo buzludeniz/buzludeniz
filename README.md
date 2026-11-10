@@ -18,7 +18,7 @@ mostly in TypeScript and Python.
 - **I like automating my own workflow.** One of my repositories maintains itself:
   every night an agent picks an item from its backlog, writes the test first,
   implements it and opens a pull request for me to review.
-- **I ship with tests and CI.** Five of the six projects below run
+- **I ship with tests and CI.** All seven projects below run
   their test suites in GitHub Actions on every push to `main`.
 
 ### Selected projects
