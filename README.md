@@ -31,6 +31,7 @@ mostly in TypeScript and Python.
 | [quantview](https://github.com/buzludeniz/quantview) | Local-first quant research desktop app for equities, rates and options, with data stored in DuckDB | Python, DuckDB, PyQt6 |
 | [dear-alex](https://github.com/buzludeniz/dear-alex) | A short self-distancing experience for university students after a setback | React, TypeScript, FastAPI |
 | [pocket-trainer](https://github.com/buzludeniz/pocket-trainer) | Role-based corporate training prototype built for a hackathon | React, Vite, Recharts, Three.js |
+| [AuditAI.Al](https://github.com/buzludeniz/AuditAI.Al) | Tax-risk checker for Albanian businesses: upload an e-Faktura CSV and get a risk score and report from Gemini | React, TypeScript, Vite, Tailwind CSS, Gemini API |
 
 ### Tech I use
 
